@@ -10,7 +10,7 @@ Every part of this project is sample code which shows how to do the following:
   Connect to a mysql database server which stores all the modelled details of the newer features.
 
 ## Watch the demonstration of the application here:
-<a href="https://youtu.be/dsvW_-Iap-E" target="_blank">
+<a href="https://youtu.be/dsvW_-Iap-E" target="Here">
 
 ## How to install this project on your local machine.
 The easiest way to see how this works is to watch the demo, but here's the short version.
