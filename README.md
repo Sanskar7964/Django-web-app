@@ -1,13 +1,13 @@
 # Django responsive app with MYSQL database Project.
 
-Greetings, I've completed the assignment I was asked. I have tried replicating the project as if from the tutorial which includes all the features. A key feature of my version of the project if the database configuration. I have implemented a mysql databased as compared to postgresql which was in the tutorial. 
+Greetings, I've completed the assignment I was asked. I have tried replicating the project as is from the tutorial which includes all the features. A key feature of my version of the project is the database configuration. I have implemented a mysql databased as compared to postgresql which was in the tutorial. 
 
 Every part of this project is sample code which shows how to do the following:
 
 - Use an embedded default django web server.
 - Create a simple REST API that serves travel destinations exploring.
 - Use of django admin panel to command application responsive features.
-  Connect to a mysql database server which stores all the modelled details of the newer features.
+- Connect to a mysql database server which stores all the modelled details of the newer features.
 
 ## Watch the demonstration of the application here:
 
